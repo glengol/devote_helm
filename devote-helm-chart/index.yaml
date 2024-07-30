@@ -3,11 +3,11 @@ entries:
   devote-helm-chart:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-07-30T16:37:56.964717585Z"
+    created: "2024-07-30T16:52:55.451077993Z"
     description: A Helm chart for the DeVote Flask application with MongoDB
     digest: d551c922a3f19e9ce0ba690e6ef5bdef06c711687bda7efcf6e3bde7c888499e
     name: devote-helm-chart
     urls:
     - https://glengol.github.io/devote_helm/devote-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-30T16:37:56.964221368Z"
+generated: "2024-07-30T16:52:55.450275869Z"
