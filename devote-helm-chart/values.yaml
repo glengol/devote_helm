@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: glengold/devote
-  tag: latest
+  tag: 1.0.132
   pullPolicy: IfNotPresent
 
 mongodb:
